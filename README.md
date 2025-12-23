@@ -80,7 +80,7 @@ chainlit run app.py
 ### Example query
 
 ````angular2html
-Enter a query: How many goals has Messi scored each season?
+Enter a query: How many goals has Messi scored each season ?
 Lionel Messi has scored the following number of goals each season:
 - 2014-2015: 13 goals
 - 2015-2016: 3 goals
